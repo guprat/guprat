@@ -1,4 +1,6 @@
 ### Hi there 👋
+### You have found my github profile.
+### Here I test my code and projects I'm working on.
 
 <!--
 **guprat/guprat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
